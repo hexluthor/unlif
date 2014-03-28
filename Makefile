@@ -19,6 +19,7 @@ ALL += unlif
 
 CLEAN += $(ALL)
 
+EDIT += README.md
 EDIT += Makefile
 EDIT += *.c
 
